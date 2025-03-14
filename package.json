@@ -3,9 +3,9 @@
   "version": "1.0.0",
   "description": "App Onefa",
   "main": "index.js",
-  "render-build":"npm install && npm run build",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "render-build":"npm install && npm run build"
   },
   "repository": {
     "type": "git",
